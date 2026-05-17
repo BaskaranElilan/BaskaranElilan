@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=BaskaranElilan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 ```
-┌──(baskaran㉿freelance)-[~]
+┌──(Elilan㉿)-[~]
 └─$ whoami
    Baskaran Elilan  //  Cybersecurity Analyst & Penetration Tester
    
@@ -43,6 +43,13 @@ I'm a **Cybersecurity Analyst & Pentester** specializing in **bimodal security o
 - Security testing framework development
 - Bug bounty research & responsible disclosure
 
+### 🔧 Infrastructure & Hardware Expertise
+- **IT Administration**: Windows/Linux server management, Active Directory, Group Policy, patch management, user lifecycle administration
+- **Network Technician**: LAN/WAN deployment, VLAN configuration, Cisco/Juniper switching & routing, cable termination & testing (Cat6/Fiber)
+- **Hardware Diagnostics**: Component-level troubleshooting, PSU/motherboard/RAM diagnostics, thermal management, firmware updates
+- **Laptop Motherboard Repair**: Schematic reading, BGA rework, power rail troubleshooting, BIOS/EC chip programming, micro-soldering
+- **Telecommunications**: VoIP/PBX systems, fiber optic splicing & OTDR testing, RF fundamentals, telecom infrastructure documentation
+
 ### 🚀 Core Competencies
 
 - 🤖 Security automation & AI-assisted tooling
@@ -50,7 +57,9 @@ I'm a **Cybersecurity Analyst & Pentester** specializing in **bimodal security o
 - 🔗 Infrastructure security & defense strategies
 - 📊 Security metrics, KPIs & risk assessment
 - 💼 **Freelance/Consulting** — Available for projects
-
+- 🔧 **Hardware-level security**: Firmware analysis, hardware backdoor detection, supply chain risk assessment
+- 🌐 **Network infrastructure security**: Secure network design, segmentation, NAC implementation
+- 📡 **Telecom security**: VoIP hardening, SS7/Diameter awareness, physical telecom infrastructure protection
 ---
 
 ## 🛠️ SOC Tool Stack
@@ -80,6 +89,14 @@ I'm a **Cybersecurity Analyst & Pentester** specializing in **bimodal security o
 | 🧠 OSINT              | Open source intelligence gathering & profiling                                   |
 | 📋 Documentation      | MITRE ATT&CK mapping · Attack chain documentation                                |
 
+## 🔧 Infrastructure & Hardware Lab
+| Category | Tools & Skills |
+|----------|---------------|
+| 🖥️ IT Administration | Active Directory · Group Policy · WSUS · PowerShell Admin · Linux Systemd |
+| 🌐 Network Operations | Wireshark · GNS3 · Packet Tracer · VLANs · OSPF/BGP · Cable Certifiers |
+| 🔌 Hardware Repair | Multimeter · Oscilloscope · Hot Air Rework Station · BGA Stencils · Schematics |
+| 💻 Laptop Board Repair | Power rail tracing · EC/BIOS programming · Component replacement · Liquid damage recovery |
+| 📡 Telecommunications | Fiber splicer · OTDR · VoIP troubleshooting · SIP/RTP analysis · Telecom closet management |
 ---
 
 ## 📂 Featured Projects
@@ -126,6 +143,10 @@ I'm a **Cybersecurity Analyst & Pentester** specializing in **bimodal security o
 - 🔧 Security Tool Development & Automation
 - 📊 SOC Design & Implementation Support
 - 🐛 Bug Bounty Campaign Management
+- 🔧 Hardware Diagnostics & Motherboard-Level Repair Consulting
+- 🌐 Network Infrastructure Audits & Secure Deployment Support
+- 📡 Telecommunications System Security Assessments
+- 🖥️ IT Administration Optimization & Hardening
 
 **Engagement Models**:
 
