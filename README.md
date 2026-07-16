@@ -121,12 +121,14 @@ An independent Python-based web and API security scanner for structured, repeata
 
 ## GitHub Activity
 
-<div align="center">
+Follow my latest open-source development, commits, releases, and contributions directly on GitHub:
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BaskaranElilan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Elilan Baskaran's GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaskaranElilan&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages" />
+- **Contribution activity:** [View my GitHub overview](https://github.com/BaskaranElilan)
+- **Repositories:** [Browse all public projects](https://github.com/BaskaranElilan?tab=repositories)
+- **PayloadPilot development:** [payloadpilot-AI commits](https://github.com/BaskaranElilan/payloadpilot-AI/commits)
+- **OWASP Scanner development:** [OWASP-Scanner commits](https://github.com/BaskaranElilan/OWASP-Scanner/commits)
 
-</div>
+> Direct GitHub links are used here instead of third-party statistics cards, ensuring this section remains available even when external profile-card services experience outages or rate limits.
 
 ---
 
