@@ -1,154 +1,152 @@
-<!-- HEADER -->
+<!-- GitHub profile README for github.com/BaskaranElilan -->
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=BaskaranElilan&color=blueviolet&style=flat-square&label=VIEWS" alt="Profile Views" />
+# Hi, I'm Elilan Baskaran 👋
 
-```
-┌──(Elilan㉿)-[~]
-└─$ whoami
-   Baskaran Elilan  //  Cybersecurity Analyst & Penetration Tester
-   🔴 Red Team · Bug Bounty · AI Security Researcher
-   
-└─$ mission="Find vulnerabilities. Break defenses. Secure systems."
-   Offensive Security | Defensive Excellence | Freelance Available
-```
+### Cybersecurity Analyst · Penetration Tester · AI Security Tool Developer
+
+I build local AI systems, MCP agents, security scanners, and SOC automation tools that help security professionals investigate, test, and defend systems more efficiently.
+
+[![Profile views](https://komarev.com/ghpvc/?username=BaskaranElilan&color=6f42c1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/BaskaranElilan)
+[![GitHub followers](https://img.shields.io/github/followers/BaskaranElilan?style=flat-square&logo=github&label=Followers)](https://github.com/BaskaranElilan?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elilan_Baskaran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elilanbaskaran)
+[![Medium](https://img.shields.io/badge/Medium-@ezhilan094-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ezhilan094)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-**Cybersecurity Analyst & Pentester** specializing in **bimodal security** — combining **Blue Team defense** with **Red Team offense**. I conduct comprehensive security assessments, threat hunting, penetration testing, and AI system security research.
+I'm a cybersecurity practitioner with experience across offensive security, defensive operations, network infrastructure, and security automation. My work combines a **purple-team mindset** with practical engineering: understand how attacks work, turn that knowledge into detections and controls, and automate repeatable security workflows.
 
-**Core Focus Areas:**
-- 🛡️ SOC architecture, threat hunting & incident response
-- 🔴 Penetration testing & vulnerability assessment  
-- 🤖 AI/LLM security (prompt injection, jailbreaking, data poisoning)
-- 🔧 Infrastructure & hardware-level security
-- 🌐 Network & telecommunications security
+- 🔴 Web application, API, network, and AI/LLM security testing
+- 🛡️ SOC operations, SIEM engineering, threat hunting, and incident response
+- 🤖 Local AI models, Model Context Protocol (MCP), and tool orchestration
+- 🔍 Digital forensics, malware analysis, and reverse-engineering workflows
+- 🧰 Python, Bash, PowerShell, Docker, Linux, and security-tool development
+- 📡 Network, telecommunications, Active Directory, and infrastructure security
 
----
-
-## 🛠️ Skills & Expertise
-
-<details open>
-<summary><strong>🛡️ Defensive Security</strong></summary>
-
-- SOC architecture, monitoring & incident response
-- Threat hunting with **YARA** (523+ rules) & **Sigma** (3,047+ rules)
-- Forensic analysis & security investigations
-- SIEM deployment & tuning (Wazuh, Suricata, EveBox)
-- Security assessment & infrastructure hardening
-
-</details>
-
-<details open>
-<summary><strong>🔴 Offensive Security</strong></summary>
-
-- Penetration testing & vulnerability assessment
-- Web application & API security testing
-- **AI Pentesting & LLM Security** (Prompt Injection, Model Jailbreaking)
-- Exploitation & post-exploitation techniques
-- Bug bounty research & responsible disclosure
-
-</details>
-
-<details>
-<summary><strong>🔧 Infrastructure & Hardware</strong></summary>
-
-- **IT Administration**: Windows/Linux, Active Directory, patch management
-- **Network**: LAN/WAN, VLANs, Cisco/Juniper routing & switching
-- **Hardware Diagnostics**: Component troubleshooting, PSU/motherboard repair
-- **Laptop Motherboard Repair**: BGA rework, power rail tracing, BIOS programming
-- **Telecommunications**: VoIP/PBX, fiber optic splicing, telecom infrastructure
-
-</details>
+> **Mission:** Find vulnerabilities, strengthen defenses, and build practical tools for security teams.
 
 ---
 
-## 🧰 Tech Stack
+## Flagship Projects
 
-| Defensive | Offensive | Infrastructure |
-|-----------|-----------|-----------------|
-| Wazuh, Suricata, EveBox | Metasploit, Burp Suite, SQLmap | Docker, Kubernetes, Terraform |
-| Velociraptor, Arkime, Wireshark | Shodan, Censys, Nmap | Caldera, FleetDM, GNS3 |
-| MISP, MITRE ATT&CK Navigator | Cobalt Strike, Empire | Ansible, Python, Bash |
-| TheHive, Cortex, Shuffle | OWASP Top 10, Mobile Security | Active Directory, PowerShell |
+### 1. [PayloadPilot AI MCP Agents v1.0](https://github.com/BaskaranElilan/payloadpilot-AI)
 
----
+An open-source, AI-assisted cybersecurity automation platform that connects MCP-compatible AI clients to a controlled security-tool backend.
 
-## 📂 Featured Projects
+**Highlights**
 
-<div align="center">
-  <a href="https://github.com/BaskaranElilan/SOC-Lab">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BaskaranElilan&repo=SOC-Lab&theme=github_dark&hide_border=true" alt="SOC-Lab" width="48%" />
-  </a>
-  <a href="https://github.com/BaskaranElilan/SOC-Home-Lab">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BaskaranElilan&repo=SOC-Home-Lab&theme=github_dark&hide_border=true" alt="SOC-Home-Lab" width="48%" />
-  </a>
-</div>
+- Two-process architecture: a FastMCP bridge and a Flask execution backend
+- Integrates **150+ security tools** for authorized assessment workflows
+- Provides reusable workflows for reconnaissance, web and API testing, vulnerability validation, reporting, and defensive analysis
+- Designed for MCP clients such as Claude Desktop, Cursor, Roo Code, and compatible development environments
+- Supports configurable server host, port, tool allowlists, timeouts, and operator-controlled execution
+
+**Built with:** Python · FastMCP · Flask · REST APIs · JSON · Security CLI tools
 
 ---
 
-## 💼 Freelance Services
+### 2. PayloadPilot AI v3.0 — Local Ollama Cybersecurity Model
 
-**Available for:**
-- 🔍 Security Assessments & Penetration Testing
-- 🤖 AI System Security & LLM Vulnerability Assessments
-- 🛡️ Vulnerability Assessments & Code Reviews
-- 🎯 Red Team Simulations & Attack Scenarios
-- 🔧 Security Tool Development & Automation
-- 📊 SOC Design & Implementation Support
+A local-first cybersecurity assistant built for Ollama and designed to support the PayloadPilot ecosystem. It focuses on private, on-device analysis and structured assistance for authorized security research.
 
-**Engagement Models**: Project-based | Retainer consulting | Short-term audits | Custom tools
+**Core capabilities**
 
----
+- Red-team planning and adversary-simulation support in authorized environments
+- VAPT methodology, web/API assessment guidance, and security reporting
+- Reverse engineering, malware triage, and binary-analysis assistance
+- SOC investigation, SIEM queries, detection engineering, and threat hunting
+- DFIR playbooks, incident-response scenarios, and cyber-range training exercises
+- MCP-assisted tool selection and workflow orchestration through PayloadPilot
 
-## 🔴 Red Teaming & Bug Bounty
+**Built with:** Ollama · Local LLMs · Prompt Engineering · MCP · Python · Cybersecurity Knowledge Workflows
 
-- **Platforms**: HackerOne, Bugcrowd, Intigriti
-- **Focus**: Web vulnerabilities, API security, authentication bypass, infrastructure weaknesses
-- **Methodology**: Reconnaissance → Mapping → Exploitation → Impact assessment → Responsible disclosure
-- **Philosophy**: Ethical hacking to strengthen security before malicious actors strike
+> The model and its connected tools are intended for systems you own or have explicit permission to assess.
 
 ---
 
-## 📊 GitHub Stats
+### 3. [OWASP Scanner v1.4.2](https://github.com/BaskaranElilan/OWASP-Scanner)
 
-<div align="center">
+An independent Python-based web and API security scanner for structured, repeatable vulnerability assessment.
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=BaskaranElilan&theme=github_dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
+**Highlights**
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BaskaranElilan&theme=github_dark&hide_border=true&layout=compact)
+- Reconnaissance, crawling, endpoint discovery, and client-side source analysis
+- Authentication-aware testing for websites and APIs
+- Checks covering common OWASP risk categories and input-validation weaknesses
+- Optional integrations with Nmap, Nuclei, ffuf, Playwright, and other testing utilities
+- Report generation in TXT, JSON, Markdown, and HTML formats
+- Modular CLI workflow suitable for labs, learning, and authorized assessments
 
-</div>
+**Built with:** Python · HTTP · Web Crawling · API Testing · Nmap · Nuclei · Playwright
+
+> This is an independent community project and is not an official OWASP Foundation product.
 
 ---
 
-## 🌐 Connect & Collaborate
+## More Security Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [SOC Lab](https://github.com/BaskaranElilan/SOC-Lab) | Detection engineering, threat hunting, investigation workflows, and security monitoring. |
+| [SOC Home Lab](https://github.com/BaskaranElilan/SOC-Home-Lab) | Hands-on SOC architecture and integrations across SIEM, threat intelligence, case management, and automation. |
+
+---
+
+## Skills & Tooling
+
+| Area | Technologies and methods |
+|---|---|
+| **Offensive Security** | Web/API VAPT, OWASP Top 10, Burp Suite, Nmap, Nuclei, Metasploit, SQLmap, ffuf, responsible disclosure |
+| **Defensive Security** | Wazuh, Suricata, Wireshark, MISP, TheHive, Cortex, Shuffle, YARA, Sigma, MITRE ATT&CK |
+| **AI & Automation** | Ollama, local LLMs, MCP, prompt engineering, Python automation, REST APIs, AI security testing |
+| **Infrastructure** | Linux, Windows, Active Directory, Docker, Kubernetes, Terraform, Ansible, VLANs, routing and switching |
+| **Development** | Python, Bash, PowerShell, JSON, Git, GitHub, Flask, CLI application design |
+
+---
+
+## Current Focus
+
+- Improving PayloadPilot's MCP workflows and safe tool-negotiation process
+- Building practical local-AI workflows for red teams, blue teams, and SOC analysts
+- Expanding OWASP Scanner coverage, reporting, and authenticated testing
+- Researching prompt injection, model behavior, LLM security, and AI-assisted detection engineering
+- Publishing project guides and cybersecurity write-ups on [Medium](https://medium.com/@ezhilan094)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elilanbaskaran)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/BaskaranElilan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:baskaranezhilan094@gmail.com)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BaskaranElilan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Elilan Baskaran's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaskaranElilan&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages" />
 
 </div>
 
 ---
 
-## 💡 Philosophy
+## Connect
 
-> *"Defense without understanding offense is blind. Red and Blue teams, working together, build truly resilient systems."*
+I'm open to collaborating on cybersecurity automation, AI security, SOC engineering, open-source tools, and authorized security research.
 
-I believe in **continuous improvement through adversarial thinking** — using offensive security knowledge to build better defensive systems, and leveraging defensive insights to craft more effective attacks.
+- **GitHub:** [github.com/BaskaranElilan](https://github.com/BaskaranElilan)
+- **LinkedIn:** [linkedin.com/in/elilanbaskaran](https://www.linkedin.com/in/elilanbaskaran)
+- **Medium:** [medium.com/@ezhilan094](https://medium.com/@ezhilan094)
+- **Email:** [baskaranezhilan094@gmail.com](mailto:baskaranezhilan094@gmail.com)
 
 ---
 
+## Responsible Use
+
+The security projects on this profile are intended for education, defensive research, cyber ranges, and testing performed with explicit authorization. Users are responsible for following applicable laws, program rules, and defined assessment scope.
+
 <div align="center">
 
-**Last Updated**: 2026 | Always Learning, Always Testing | Let's make security better 🚀
+**Build. Test. Detect. Improve.**
 
 </div>
